@@ -12,7 +12,7 @@ TIMEZONE = 'America/Phoenix'
 
 DEFAULT_LANG = u'en'
 
-THEME = "C:\\Users\\brcolow\\pelican-themes\\svbhack"
+THEME = "./svbhack-theme"
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
