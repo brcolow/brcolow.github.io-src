@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = https://github.com/brcolow/brcolow.github.io.git
+[submodule "svbhack-theme"]
+	path = svbhack-theme
+	url = https://github.com/giulivo/pelican-svbhack.git
